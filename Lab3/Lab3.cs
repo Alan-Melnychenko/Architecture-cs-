@@ -70,7 +70,7 @@ namespace BaggageJSON
     {
         static void Main(string[] args)
         {
-            string fileName = "C:/Users/1/Desktop/Нова папка/jsconfig1.json";
+            string fileName = "C:/Users/1/Desktop/Architecture/Lab3/jsconfig2.json";
 
             Baggages baggages = new Baggages();
             baggages.Add(15, 20);
