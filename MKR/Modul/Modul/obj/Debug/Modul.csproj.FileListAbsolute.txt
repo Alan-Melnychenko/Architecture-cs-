@@ -1,0 +1,8 @@
+C:\Users\ivank\source\repos\Modul\Modul\bin\Debug\Modul.exe.config
+C:\Users\ivank\source\repos\Modul\Modul\bin\Debug\Modul.exe
+C:\Users\ivank\source\repos\Modul\Modul\bin\Debug\Modul.pdb
+C:\Users\ivank\source\repos\Modul\Modul\obj\Debug\Modul.csproj.AssemblyReference.cache
+C:\Users\ivank\source\repos\Modul\Modul\obj\Debug\Modul.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivank\source\repos\Modul\Modul\obj\Debug\Modul.csproj.CoreCompileInputs.cache
+C:\Users\ivank\source\repos\Modul\Modul\obj\Debug\Modul.exe
+C:\Users\ivank\source\repos\Modul\Modul\obj\Debug\Modul.pdb
